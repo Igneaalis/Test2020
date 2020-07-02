@@ -1,6 +1,6 @@
 # Igneaalis and Alex446377 Unity Project
  
-## Requirements
+## Requirements | Требования
 
 * Git
 
@@ -62,7 +62,7 @@
             * Scripting Backend Mono (Windows and Android) and IL2CPP (iOS)
             * API Compatibility Level .NET Standard 2.0
 
-* sdkmanager (configure PATH in Windows): Preferences -> External Tools -> Android -> Android SDK Tools installed with Unity (recommended) -> <kbd>Copy Path</kbd>. <kbd>Win</kbd> + <kbd>Pause Break</kbd>: Additional System Settings -> Variables -> System variables -> Path -> <kbd>Add</kbd> -> <kbd>Ctrl</kbd> + <kbd>V</kbd>
+* sdkmanager (configure PATH in Windows): Preferences -> External Tools -> Android -> Android SDK Tools installed with Unity (recommended) -> <kbd>Copy Path</kbd>. <kbd>Win</kbd> + <kbd>Pause Break</kbd>: Additional System Settings -> Variables -> System variables -> Path -> <kbd>Add</kbd> -> <kbd>Ctrl</kbd> + <kbd>V</kbd>.
   * --list
      * Installed packages:
         * build-tools;28.0.3
@@ -74,17 +74,17 @@
         * tools
            * 26.1.1
 
-## Useful links
+## Useful links | Полезные ссылки
 
-* **[Git workflow](https://docs.github.com/en/github/using-git)**
+* **[Git workflow | Git рабочий цикл](https://docs.github.com/en/github/using-git)**
 
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-* [Data structures](https://habr.com/ru/post/339656/)
+* [Data structures | Структуры данных](https://habr.com/ru/post/339656/)
 
 * [Coroutines](https://habr.com/ru/post/216185/)
 
-* [Streamline coroutines](https://habr.com/ru/post/442622/)
+* [Streamline coroutines | Оптимизация корутин](https://habr.com/ru/post/442622/)
 
 * [Android API](https://habr.com/ru/company/otus/blog/466367/)
 
@@ -94,6 +94,6 @@
 
 * [sdkmanager](https://developer.android.com/studio/command-line/sdkmanager)
 
-* [sdkmanage practical using](https://stackoverflow.com/questions/37505709/how-do-i-download-the-android-sdk-without-downloading-android-studio)
+* [sdkmanager practical using | sdkmanager практическое применение](https://stackoverflow.com/questions/37505709/how-do-i-download-the-android-sdk-without-downloading-android-studio)
 
 * [Change Unity Target Framework](https://gamedev.stackexchange.com/questions/166401/use-a-different-target-framework-version-in-a-unity-c-project-other-than-4-6)
