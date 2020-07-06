@@ -12,6 +12,8 @@
 
 * Markdown (for GitHub)
 
+___
+
 * .NET Framework
 
 * .NET Framework 4.8
@@ -26,6 +28,8 @@
 
 * .NET Standard 2.0
 
+___
+
 * VS Code
 
 * VS Code extensions:
@@ -38,6 +42,8 @@
   * Instal .VSIX
   * Unity Code Snippets
   * Unity Tools
+
+___
 
 * Unity Hub:
   * Unity 2019.4.1f1 (LTS)
@@ -61,6 +67,8 @@
          * Configuration
             * Scripting Backend Mono (Windows and Android) and IL2CPP (iOS)
             * API Compatibility Level .NET Standard 2.0
+
+___
 
 * sdkmanager (configure PATH in Windows): Preferences -> External Tools -> Android -> Android SDK Tools installed with Unity (recommended) -> <kbd>Copy Path</kbd>. <kbd>Win</kbd> + <kbd>Pause Break</kbd> -> Additional System Settings -> Variables -> System variables -> Path -> <kbd>Add</kbd> -> <kbd>Ctrl</kbd> + <kbd>V</kbd>.
   * --list
