@@ -76,7 +76,7 @@
 
 ## Useful links | Полезные ссылки
 
-Git:
+### Git:
 
 * **[Git workflow | Git рабочий цикл](https://docs.github.com/en/github/using-git)**
 
@@ -84,7 +84,7 @@ Git:
 
 ___
 
-C#:
+### C#:
 
 * [Data structures | Структуры данных](https://habr.com/ru/post/339656/)
 
@@ -96,7 +96,7 @@ C#:
 
 ___
 
-Android:
+### Android:
 
 * [Android API](https://habr.com/ru/company/otus/blog/466367/)
 
@@ -106,13 +106,13 @@ Android:
 
 ___
 
-.NET:
+### .NET:
 
 * [.NET Core vs .NET Standard](https://gosha20777.github.io/code/2018/02/22/dotnetcore/)
 
 ___
 
-Unity:
+### Unity:
 
 * [Protect Unity Apps](https://habr.com/ru/post/266345/)
 
