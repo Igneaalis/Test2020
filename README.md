@@ -118,6 +118,8 @@ ___
   
   * [Streamline coroutines | Оптимизация корутин](https://habr.com/ru/post/442622/)
 
+  * [Preprocessor reference | Справочник по препроцессору](https://docs.microsoft.com/ru-ru/cpp/preprocessor/c-cpp-preprocessor-reference?view=vs-2019)
+
 ___
 
 ### Unity:
