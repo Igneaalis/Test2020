@@ -5,7 +5,7 @@
     - [Git](#git)
     - [Android](#android)
     - [.NET](#net)
-      - [C#](#C#)
+      - [C#](#c)
     - [Unity](#unity)
 
 ## Requirements | Требования
@@ -114,7 +114,7 @@ ___
 
 * [.NET Core vs .NET Standard](https://gosha20777.github.io/code/2018/02/22/dotnetcore/)
 
-* #### C#
+#### C#
 
   * [Data structures | Структуры данных](https://habr.com/ru/post/339656/)
   
