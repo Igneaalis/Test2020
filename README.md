@@ -1,5 +1,5 @@
 # Igneaalis and Alex446377 Unity Project
- 
+
 ## Requirements | Требования
 
 * Git
@@ -114,6 +114,10 @@ ___
 
 ### Unity:
 
-* [Protect Unity Apps](https://habr.com/ru/post/266345/)
+* **[Unity Documentation | Unity документация](https://docs.unity3d.com/Manual/index.html)**
+
+* [Platform dependant compilation | Платформо-зависимая компиляция](https://docs.unity3d.com/Manual/PlatformDependentCompilation.html)
+
+* [Protect Unity Apps | Защита приложений Unity](https://habr.com/ru/post/266345/)
 
 * [Change Unity Target Framework](https://gamedev.stackexchange.com/questions/166401/use-a-different-target-framework-version-in-a-unity-c-project-other-than-4-6)
