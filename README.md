@@ -1,5 +1,13 @@
 # Igneaalis and Alex446377 Unity Project
 
+  - [Requirements | Требования](#requirements--требования)
+  - [Useful links | Полезные ссылки](#useful-links--полезные-ссылки)
+    - [Git](#git)
+    - [Android](#android)
+    - [.NET](#net)
+      - [C#](#C#)
+    - [Unity](#unity)
+
 ## Requirements | Требования
 
 * Git
@@ -84,7 +92,7 @@ ___
 
 ## Useful links | Полезные ссылки
 
-### Git:
+### Git
 
 * **[Git workflow | Git рабочий цикл](https://docs.github.com/en/github/using-git)**
 
@@ -92,7 +100,7 @@ ___
 
 ___
 
-### Android:
+### Android
 
 * [Android API](https://habr.com/ru/company/otus/blog/466367/)
 
@@ -102,11 +110,11 @@ ___
 
 ___
 
-### .NET:
+### .NET
 
 * [.NET Core vs .NET Standard](https://gosha20777.github.io/code/2018/02/22/dotnetcore/)
 
-* #### C#:
+* #### C#
 
   * [Data structures | Структуры данных](https://habr.com/ru/post/339656/)
   
@@ -122,7 +130,7 @@ ___
 
 ___
 
-### Unity:
+### Unity
 
 * **[Unity Documentation | Unity документация](https://docs.unity3d.com/Manual/index.html)**
 
