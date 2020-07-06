@@ -76,24 +76,44 @@
 
 ## Useful links | Полезные ссылки
 
+Git:
+
 * **[Git workflow | Git рабочий цикл](https://docs.github.com/en/github/using-git)**
 
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
 
+___
+
+C#:
+
 * [Data structures | Структуры данных](https://habr.com/ru/post/339656/)
 
-* [Coroutines](https://habr.com/ru/post/216185/)
+* **[Design Patterns in C# | Шаблоны в C#](https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/)**
+
+* [Coroutines | Корутины](https://habr.com/ru/post/216185/)
 
 * [Streamline coroutines | Оптимизация корутин](https://habr.com/ru/post/442622/)
 
+___
+
+Android:
+
 * [Android API](https://habr.com/ru/company/otus/blog/466367/)
-
-* [.NET Core vs .NET Standard](https://gosha20777.github.io/code/2018/02/22/dotnetcore/)
-
-* [Protect Unity Apps](https://habr.com/ru/post/266345/)
 
 * [sdkmanager](https://developer.android.com/studio/command-line/sdkmanager)
 
 * [sdkmanager practical using | sdkmanager практическое применение](https://stackoverflow.com/questions/37505709/how-do-i-download-the-android-sdk-without-downloading-android-studio)
+
+___
+
+.NET:
+
+* [.NET Core vs .NET Standard](https://gosha20777.github.io/code/2018/02/22/dotnetcore/)
+
+___
+
+Unity:
+
+* [Protect Unity Apps](https://habr.com/ru/post/266345/)
 
 * [Change Unity Target Framework](https://gamedev.stackexchange.com/questions/166401/use-a-different-target-framework-version-in-a-unity-c-project-other-than-4-6)
