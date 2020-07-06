@@ -102,9 +102,9 @@ ___
 
   * [Data structures | Структуры данных](https://habr.com/ru/post/339656/)
   
-  * **[Design Patterns in C# part 1 | Шаблоны в C# часть 1](https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/)**
+  * [Design Patterns in C# part 1 | Шаблоны в C# часть 1](https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/)
   
-  * [Design Patterns in C# part 2](https://www.dofactory.com/net/design-patterns)
+  * [Design Patterns in C# part 2 | Шаблоны в C# часть 2](https://www.dofactory.com/net/design-patterns)
   
   * [Coroutines | Корутины](https://habr.com/ru/post/216185/)
   
