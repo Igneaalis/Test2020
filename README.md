@@ -62,7 +62,7 @@
             * Scripting Backend Mono (Windows and Android) and IL2CPP (iOS)
             * API Compatibility Level .NET Standard 2.0
 
-* sdkmanager (configure PATH in Windows): Preferences -> External Tools -> Android -> Android SDK Tools installed with Unity (recommended) -> <kbd>Copy Path</kbd>. <kbd>Win</kbd> + <kbd>Pause Break</kbd>: Additional System Settings -> Variables -> System variables -> Path -> <kbd>Add</kbd> -> <kbd>Ctrl</kbd> + <kbd>V</kbd>.
+* sdkmanager (configure PATH in Windows): Preferences -> External Tools -> Android -> Android SDK Tools installed with Unity (recommended) -> <kbd>Copy Path</kbd>. <kbd>Win</kbd> + <kbd>Pause Break</kbd> -> Additional System Settings -> Variables -> System variables -> Path -> <kbd>Add</kbd> -> <kbd>Ctrl</kbd> + <kbd>V</kbd>.
   * --list
      * Installed packages:
         * build-tools;28.0.3
@@ -84,18 +84,6 @@
 
 ___
 
-### C#:
-
-* [Data structures | Структуры данных](https://habr.com/ru/post/339656/)
-
-* **[Design Patterns in C# | Шаблоны в C#](https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/)**
-
-* [Coroutines | Корутины](https://habr.com/ru/post/216185/)
-
-* [Streamline coroutines | Оптимизация корутин](https://habr.com/ru/post/442622/)
-
-___
-
 ### Android:
 
 * [Android API](https://habr.com/ru/company/otus/blog/466367/)
@@ -109,6 +97,18 @@ ___
 ### .NET:
 
 * [.NET Core vs .NET Standard](https://gosha20777.github.io/code/2018/02/22/dotnetcore/)
+
+* #### C#:
+
+  * [Data structures | Структуры данных](https://habr.com/ru/post/339656/)
+  
+  * **[Design Patterns in C# part 1 | Шаблоны в C# часть 1](https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/)**
+  
+  * [Design Patterns in C# part 2](https://www.dofactory.com/net/design-patterns)
+  
+  * [Coroutines | Корутины](https://habr.com/ru/post/216185/)
+  
+  * [Streamline coroutines | Оптимизация корутин](https://habr.com/ru/post/442622/)
 
 ___
 
