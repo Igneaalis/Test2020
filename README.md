@@ -139,3 +139,5 @@ ___
 * [Protect Unity Apps | Защита приложений Unity](https://habr.com/ru/post/266345/)
 
 * [Change Unity Target Framework](https://gamedev.stackexchange.com/questions/166401/use-a-different-target-framework-version-in-a-unity-c-project-other-than-4-6)
+
+* **[Hexagonal Grid | Шестиугольное замощение](https://www.youtube.com/watch?v=bcPqdCSGCls)**
