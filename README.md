@@ -108,6 +108,15 @@ ___
 
 * [sdkmanager practical using | sdkmanager практическое применение](https://stackoverflow.com/questions/37505709/how-do-i-download-the-android-sdk-without-downloading-android-studio)
 
+#### sdkmanager get-list.bat
+
+* Don't forget to add sdkmanager to Path and set %ANDROID_HOME% variable.
+
+```batch
+sdkmanager --list --sdk_root=%ANDROID_HOME% > C:\logfile.txt
+pause
+```
+
 ___
 
 ### .NET
