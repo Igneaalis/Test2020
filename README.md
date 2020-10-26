@@ -51,6 +51,9 @@ ___
   * Unity Code Snippets
   * Unity Tools
 
+OR
+
+* Microsoft Visual Studio Community 2019
 ___
 
 * Unity Hub:
