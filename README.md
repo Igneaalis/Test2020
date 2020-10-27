@@ -153,3 +153,9 @@ ___
 * [Change Unity Target Framework](https://gamedev.stackexchange.com/questions/166401/use-a-different-target-framework-version-in-a-unity-c-project-other-than-4-6)
 
 * **[Hexagonal Grid | Шестиугольное замощение](https://www.youtube.com/watch?v=bcPqdCSGCls)**
+
+___
+
+### Visual Studio Community 2019
+
+* [Using Visual Studio Tools for Unity](https://docs.microsoft.com/ru-ru/visualstudio/cross-platform/using-visual-studio-tools-for-unity?view=vs-2019)
