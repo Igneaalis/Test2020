@@ -155,6 +155,8 @@ ___
 
 * **[Hexagonal Grid | Шестиугольное замощение](https://www.youtube.com/watch?v=bcPqdCSGCls)**
 
+* [Lighting in Unity](https://www.youtube.com/watch?v=VnG2gOKV9dw)
+
 ___
 
 ### Visual Studio Community 2019
