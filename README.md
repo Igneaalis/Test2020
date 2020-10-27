@@ -53,11 +53,11 @@ ___
 
 OR
 
-* Microsoft Visual Studio Community 2019
+* [Microsoft Visual Studio Community 2019](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&rel=16)
 ___
 
 * Unity Hub:
-  * Unity 2019.4.1f1 (LTS)
+  * [Unity 2019.4.13f1 (LTS)](https://unity3d.com/unity/qa/lts-releases)
      * Android Build Support
      * iOS Build Support
      * Windows Build Support (IL2CPP)
@@ -82,7 +82,7 @@ ___
 ___
 
 * sdkmanager (configure PATH in Windows): Preferences -> External Tools -> Android -> Android SDK Tools installed with Unity (recommended) -> <kbd>Copy Path</kbd>. <kbd>Win</kbd> + <kbd>Pause Break</kbd> -> Additional System Settings -> Variables -> System variables -> Path -> <kbd>Add</kbd> -> <kbd>Ctrl</kbd> + <kbd>V</kbd>.
-  * --list
+  * [cmd]$ sdkmanager --list
      * Installed packages:
         * build-tools;28.0.3
            * 28.0.3
