@@ -54,6 +54,7 @@ ___
 OR
 
 * [Microsoft Visual Studio Community 2019](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&rel=16)
+  * [Installation Guide](VSC2019Installation.md)
 ___
 
 * Unity Hub:
