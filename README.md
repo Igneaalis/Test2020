@@ -157,6 +157,8 @@ ___
 
 * [Hex Tile Map Generation](https://www.youtube.com/watch?v=rjBD-4gNcfA)
 
+* [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
+
 * [Lighting in Unity](https://www.youtube.com/watch?v=VnG2gOKV9dw)
 
 * [Universal Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@10.1/manual/index.html)
